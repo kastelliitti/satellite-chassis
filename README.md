@@ -1,4 +1,4 @@
 # satellite-chassis
-Fusion 360 Archive files (.f3z) for the satellite chassis. Design is made for 3D-printing.
+Fusion 360 Archive files (.f3z) for the satellite chassis. Files can be found in "releases".
 
-The design is not final until further notice.
+The design is made for 3D-printing. It is not final until further notice.
