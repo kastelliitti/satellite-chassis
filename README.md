@@ -5,4 +5,4 @@ You can download and view the .f3d files separately, or view the whole design vi
 
 If the final product is enough for you, look at the .step files.
 
-The design is made for 3D-printing (apart from the PCB). It is not final.
+The design is made for 3D-printing (apart from the PCB).
